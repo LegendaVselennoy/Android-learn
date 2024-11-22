@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GreetingCard" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.HappyBirthday" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.DiceRoller" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Affirmations" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.TrainingWoof" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
